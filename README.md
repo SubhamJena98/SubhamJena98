@@ -39,9 +39,8 @@
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/subhamjena/)
-- 💼 [Portfolio (Coming Soon)](https://subhamjena.dev)
-- 📬 Email: subhamjenaofficial@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/subhamjena98/)
+- 📬 Email: subhamjena.dev@gmail.com
 
 ---
 
